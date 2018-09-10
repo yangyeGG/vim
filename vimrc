@@ -69,7 +69,7 @@ func SetTitle()
  
         call append(line(".")+1, "\# Author: yy") 
  
-        call append(line(".")+2, "\# mail: yy@ityy.xyz") 
+        call append(line(".")+2, "\# mail: yy@ityy520.com") 
  
         call append(line(".")+3, "\# Created Time: ".strftime("%c")) 
  
@@ -87,7 +87,7 @@ func SetTitle()
  
         call append(line(".")+1, "    > Author: yy") 
  
-        call append(line(".")+2, "    > Mail: yy@ityy.xyz ") 
+        call append(line(".")+2, "    > Mail: yy@ityy520.com ") 
  
         call append(line(".")+3, "    > Created Time: ".strftime("%c")) 
  
